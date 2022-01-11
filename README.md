@@ -5,7 +5,7 @@ Green energy Stocks analized with VBA
 It´s a deep analysis about how Green energy Stocks performed in 2017 and 2018.
 
 ### Purpose 
-The purpose is to help Steve to analyze the data that he has collected about stocks, using data of historical information, to facilitate their parents the decision on which stock is good to invert. Also, the project has the purpose of analyzing different data using VBA, learning how to make arrays and loops "for" to increase the deep analysis of the tickers, their volume, and their return. Then, learn how to format the data results to make more visibility information.
+The purpose is to help Steve to analyze the data that he has collected about stocks, using data of historical information, to facilitate their parents the decision on which stock is good to invest. Also, the project has the purpose of analyzing different data using VBA, learning how to make arrays and loops "for" to increase the deep analysis of the tickers, their volume, and their return. Then, learn how to format the data results to make more visibility information.
 
 ## Results 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
