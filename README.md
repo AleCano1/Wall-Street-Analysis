@@ -16,10 +16,12 @@ This image shows how fast our data analysis "All Stocks" runs, after the refacto
 
 Also, in this image we can see that the current time is 0.36718 seconds while, the before time was 2.1640 seconds, it happens the same and the refactoring code reduces the time that the VBA do the analysis and shows the results.
 
+![VBA_Challenge_2017_table](VBA_Challenge_2017_table.png)
 
 As we can see, this table shows that at the end of 2017, almost all the Ticker have a positive return, and the three upper return are from "DQ" with a Return of 199.4%, "SEDG" with a  Return  of 184.5%, and "ENPH" with a return of 129.5%, with a Total Daily Volume of 35,796,200,  206,885,200,  and 221,772,100 respectly. 
 
-image table 2018
+![VBA_Challenge_2018_table](VBA_Challenge_2018_table.png)
+
 While at the end of the 2018, only two tickers have a possitive return "ENPH" and "RUN" wiwth a Return value of 81.9% and 84.0% witha total Daily Volume of 607,473,500 and 502, 757, 100 respectly. 
 So, this table shows that the 2018 was a difficult year for the stocks, even though the ticker "RUN" increase their return of 2017 to 2018 and hold his positives results, "ENPH" also continue two years in positives results but in better way, having more than 80% two years consecutivity.  
 
