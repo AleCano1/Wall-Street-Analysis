@@ -9,11 +9,14 @@ The purpose is to help Steve to analyze the data that he has collected about sto
 
 ## Results 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
-This image shows how fast our data analysis "All Stocks" runs, after the refactoring we see that in 0.468 seg is possible to see the Daily volume per ticker, and the Value Return investment. After the refactoring, the velocity was 2.16015 What I did here is make the code easier and faster, which helped Steve bring the information to his parent's visibility faster. 
+
+This image shows how fast our data analysis "All Stocks" runs, after the refactoring we see that in 0.375 seconds is possible to see the Daily volume per ticker, and the Value Return investment. After the refactoring, the velocity was 2.16015 seconds What I did here is make the code easier and faster, which helped Steve bring the information to his parent's visibility faster. 
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
-Also, in this image we can see that the current time is 0.4531 while, the before time was 2.1640, it happens the same and the refactoring code reduces the time that the VBA do the analysis and shows the results.
-image table 2017
+
+Also, in this image we can see that the current time is 0.36718 seconds while, the before time was 2.1640 seconds, it happens the same and the refactoring code reduces the time that the VBA do the analysis and shows the results.
+
+
 As we can see, this table shows that at the end of 2017, almost all the Ticker have a positive return, and the three upper return are from "DQ" with a Return of 199.4%, "SEDG" with a  Return  of 184.5%, and "ENPH" with a return of 129.5%, with a Total Daily Volume of 35,796,200,  206,885,200,  and 221,772,100 respectly. 
 
 image table 2018
