@@ -5,16 +5,16 @@ Green energy Stocks analized with VBA
 It´s a deep analysis about how Green energy Stocks performed in 2017 and 2018.
 
 ### Purpose 
-The purpose is to help Steve to analyze the data that he has collected about stocks, using data of historical information, to facilitate their parents the decision on which stock is good to invest. Also, the project has the purpose of analyzing different data using VBA, learning how to make arrays and loops "for" to increase the deep analysis of the tickers, their volume, and their return. Then, learn how to format the data results to make more visibility information.
+The purpose is to help Steve to analyze the data that he has collected about stocks, using data of historical information, to facilitate their parents the decision on which stock is good to invest in. Also, the project has the purpose of analyzing different data using VBA, learning how to make arrays and loops "for" to increase the deep analysis of the tickers, their volume, and their return. Then, learn how to format the data results to make more visibility information.
 
 ## Results 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 
-This image shows how fast our data analysis "All Stocks" runs, after the refactoring we see that in 0.375 seconds is possible to see the Daily volume per ticker, and the Value Return investment. After the refactoring, the velocity was 2.16015 seconds What I did here is make the code easier and faster, which helped Steve bring the information to his parent's visibility faster. 
+This image shows how fast our data analysis "All Stocks" runs, after the refactoring we see that in 0.375 seconds is possible to see the Daily volume per ticker, and the Value Return investment. Before the refactoring, the velocity was 2.16015 seconds. What I did here is make the code easier and faster, which helped Steve bring the information to his parent's visibility faster. 
 
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-Also, in this image we can see that the current time is 0.36718 seconds while, the before time was 2.1640 seconds, it happens the same and the refactoring code reduces the time that the VBA do the analysis and shows the results.
+Also, in this image we can see that the current time is 0.36718 seconds, before was 2.1640 seconds, it happens the same and the refactoring code reduces the time that the VBA do the analysis and shows the results.
 
 ![VBA_Challenge_2017_table](VBA_Challenge_2017_table.png)
 
@@ -22,13 +22,14 @@ As we can see, this table shows that at the end of 2017, almost all the Ticker h
 
 ![VBA_Challenge_2018_table](VBA_Challenge_2018_table.png)
 
-While at the end of the 2018, only two tickers have a possitive return "ENPH" and "RUN" wiwth a Return value of 81.9% and 84.0% witha total Daily Volume of 607,473,500 and 502, 757, 100 respectly. 
-So, this table shows that the 2018 was a difficult year for the stocks, even though the ticker "RUN" increase their return of 2017 to 2018 and hold his positives results, "ENPH" also continue two years in positives results but in better way, having more than 80% two years consecutivity.  
+While at the end of 2018, only two tickers have a positive return "ENPH" and "RUN" with a Return value of 81.9% and 84.0% with a total Daily Volume of 607,473,500 and 502, 757, 100 respectively.
+
+So, this table shows that 2018 was a difficult year for the stocks, even though the ticker "RUN" increase their return of 2017 to 2018 and hold its positive results, "ENPH" also continue two years in positive results but in a better way, having more than 80% two years consecutively.   In consequence, "ENPH" is a good option that based on the historical results will give a positive return.
 
 ### Summary
 
 1. What are the advantages or disadvantages of refactoring code?
-For me, one disadvantage is that changing a code could be difficult to create when you already have a code that works. With my few knowledge was a challenge, but the advantages are that when it runs, it makes easier the life, with a shorter code and faster too. 
+For me, one disadvantage is that changing a code could be difficult to create when you already have a code that works. With my little knowledge was a challenge, but the advantages are that when it runs, it makes easier life, with a shorter code and faster too. 
 
 2. How do these pros and cons apply to refactoring the original VBA script?
 When I was refactoring my code, I omitted some (i) that make the code run, like the part that I have to write a code to output the results using loop "for" to run the tickers inside the arrays. Was difficult and challenging.
